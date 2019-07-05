@@ -1,2 +1,2 @@
 # data-visualization-projects
- I will store some data visualization projects in this repo
+ I stored some data visualization projects in this repo
